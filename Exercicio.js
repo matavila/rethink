@@ -55,4 +55,5 @@ pessoas.forEach((pessoa)=>{
 
 })
 let total = idade/divisor;
+console.log("Respotas da Questa 7:")
 console.log(total.toFixed(0))
